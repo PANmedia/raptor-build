@@ -21,7 +21,7 @@ You will also need the follow tools installed, and avalible in your path:
 
 ## Running Examples
 
-If you have Apache, or anther server, you can run the examples if the `raptor-build` directory is in you document root. Otherwise you can use the PHP in built server (slower):
+If you have Apache, or another server, you can run the examples if the `raptor-build` directory is in you document root. Otherwise you can use the PHP in built server (slower):
 
     bin/server
 
