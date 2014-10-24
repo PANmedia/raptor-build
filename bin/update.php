@@ -14,6 +14,8 @@ checkTool('sass');
 @mkdir(path('temp'));
 @mkdir(path('packages'));
 
+chdir(path());
+system('npm install');
 gitUpdate('Raptor Builder', 'http://github.com/PANmedia/raptor-build.git', path('.'));
 gitUpdate('Raptor Editor', 'http://github.com/PANmedia/raptor-editor.git', path('raptor-editor'));
 gitUpdate('Raptor Examples', 'http://github.com/PANmedia/raptor-example.git', path('raptor-example'));
