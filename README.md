@@ -9,7 +9,7 @@ You will also need the follow tools installed, and avalible in your path:
  - PHP 5.5.0+
  - NodeJS
  - NPM
- - Sass and compass (Ruby)
+ - Sass with compass and susy (Ruby)
 
 #### To clone and update the builder run:
 
